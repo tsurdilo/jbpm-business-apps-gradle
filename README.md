@@ -1,8 +1,8 @@
-<center><p align="center"><img src="docimg/jbpm_logo.png">&nbsp;+&nbsp;<img src="docimg/gradle_logo.png"></p></center>
+<center><p align="center"><img src="docimg/jbpm_logo.png">&nbsp;&nbsp;<img src="docimg/gradle_logo.png"></p></center>
 
 jBPM Business Applications - Gradle Build
 --------------------
-[Gradle](https://gradle.org/)build files for [jBPM Business Applications](http://jbpm.org/businessapps/gettingStarted.html) generated via
+[Gradle](https://gradle.org/) build files for [jBPM Business Applications](http://jbpm.org/businessapps/gettingStarted.html) generated via
 
 **[start.jbpm.org](http://start.jbpm.org)**
 
